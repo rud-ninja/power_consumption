@@ -65,4 +65,4 @@ For the forecast, the first 11 months have been chosen as the training set for t
 
 **Fig 9: Actual values vs Forecasted values**
 
-The above model prediction registered a mean squared error of 6.96 MW. It looks like a very good prediction except for the initial sharp changes in pwer consumption. A 90 percent confidence interval can be caluclated for this algorithm by training several models and obtaining a distribution for the predictions at each timestamp. This will be added in future versions of this project. The complete code can be found [here](https://github.com/rud-ninja/power_consumption/blob/main/tetouan_revisited.ipynb)
+The above model prediction registered a mean squared error of 6.96 MW. It looks like a very good prediction except for the initial sharp changes in pwer consumption. A 90 percent confidence interval can be caluclated for this algorithm by training several models and obtaining a distribution for the predictions at each timestamp. This will be added in future versions of this project. The complete code can be found [here](https://github.com/rud-ninja/power_consumption/blob/main/tetouan_revisited.ipynb).
