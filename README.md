@@ -10,6 +10,9 @@ Python
 #### Libraries used:
 Pandas, Numpy, Scipy, Matplotlib, XGBoost, statsmodel, sklearn
 
+#### Forecasting algorithm used:
+Extreme gradient boosting or XGBoost regression.
+
 #### The dataset:
 Power consumption by the city of Tetouan in Morocco. The dataset is available on Kaggle. All observations were made at an interval of 10 minutes for a whole year. Power is distributed to the city from 3 zones. In this task, the consumption from all the zones have been added and all analyses have been performed on the *Total* consumption for any time duration considered. 
 
