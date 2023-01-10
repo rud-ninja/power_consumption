@@ -1,8 +1,8 @@
 # Title: Forecasting total power consumption of a city based on historical data and environmental factors (Multivariate time series forecasting).
 
 ### Objectives:
-1. Perform Exploratory data analysis to derive insight about the place and power usage tendencies.
-2. Forecast power consumption
+1. Performed Exploratory data analysis to derive insight about the place and power usage tendencies.
+2. Forecasted power consumption using extreme gradient boosting
 
 #### Language used:
 Python
